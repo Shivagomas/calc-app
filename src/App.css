@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+input {
+  margin-top: 20px;
+  height: 25%;
+  width: 20%;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+button {
+  height: 30px;
+  width: 70px;
+}
+
+.num-buttons button {
+  height: 20px;
+  width: 40px;
+  margin: 5px;
+}
